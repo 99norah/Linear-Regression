@@ -3,15 +3,11 @@ This is the second project for the T5 Data Science Bootcamp, which is about buil
 
 
 ## Methodology
-1- Problem Understanding
-
-2- Gather Data  
-
-3- Pre processing
-
-4- Exploratory data analysis 
-
-5- Regression Model
+- Problem Understanding
+- Gather Data  
+- Pre processing
+- Exploratory data analysis 
+- Regression Model
 
 
 ## Tools
